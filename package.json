@@ -1,0 +1,23 @@
+{
+  "name": "anydoc2",
+  "version": "1.0.0",
+  "description": "A lesson project form MOOC",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dingyj3178/anydoc2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dingyj3178/anydoc2/issues"
+  },
+  "homepage": "https://github.com/Dingyj3178/anydoc2#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "handlebars": "^4.0.11"
+  }
+}
